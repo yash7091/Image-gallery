@@ -101,6 +101,8 @@ height: 30px;
   justify-content: center;
   display: flex !important;
   position: static;
+  justify-content: space-evenly;
+  flex-direction: row;
 }  
 .carousel-control-next, .carousel-control-prev{
 position: static;
